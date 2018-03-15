@@ -13,7 +13,7 @@ StockChecker (Created by Daniel Oroszvari and Benjamin Ranford) is a program dev
 ## Dependencies
 #### `pandas` - An open source, BSD-licensed library built for the Python Programming Language and used to provide high-performance, simplistic data analysis tools.
 
-#### `alpha_vantage Application Programming Interface (API)` - An API used to fetch realtime data of share prices.
+#### `alpha_vantage` Application Programming Interface (API) - An API used to fetch realtime data of share prices.
 
 #### `pprint` - A module that provides the ability to organise Python data structures into a format easily read by the user.
 
