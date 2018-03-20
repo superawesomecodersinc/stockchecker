@@ -6,9 +6,10 @@ This repository contains a stock checking program built on the Alpha Vantage API
 StockChecker (Created by Daniel Oroszvari and Benjamin Ranford) is a program developed in Python. Its purpose is that of checking the prices of company shares.
 
 ## Getting Started
-1. 
-2.
-3.
+1. Install dependencies
+2. Download program
+3. Check permissions
+4. Run program
 
 ## Dependencies
 #### `pandas` - An open source, BSD-licensed library built for the Python Programming Language and used to provide high-performance, simplistic data analysis tools.
