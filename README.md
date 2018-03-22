@@ -11,6 +11,8 @@ StockChecker (Created by Daniel Oroszvari and Benjamin Ranford) is a program dev
 3. Check permissions
 4. Run program
 
+
+
 ## Dependencies
 #### `pandas` - An open source, BSD-licensed library built for the Python Programming Language and used to provide high-performance, simplistic data analysis tools.
 
@@ -21,3 +23,4 @@ StockChecker (Created by Daniel Oroszvari and Benjamin Ranford) is a program dev
 #### `json` - A JavaScript inspired data interchange format.
 
 #### `matplotlib.pyplot` - A plotting library developed for the Python Programming Language and NumPy, and is used to embed plots into applications.
+
