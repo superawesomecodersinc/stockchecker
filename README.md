@@ -24,3 +24,11 @@ StockChecker (Created by Daniel Oroszvari and Benjamin Ranford) is a program dev
 
 #### `matplotlib.pyplot` - A plotting library developed for the Python Programming Language and NumPy, and is used to embed plots into applications.
 
+#### `Requests` - 
+
+|     Feature    |  Description  |    Example   |
+|----------------|---------------|--------------|
+|   Ticker Symbol input from the user             |   Retrieves prices             |              |
+|                |               |              |
+|                |               |              |
+|                |               |              |
