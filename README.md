@@ -34,7 +34,7 @@ StockChecker (Created by Daniel Oroszvari and Benjamin Ranford) is a program dev
 
 |     Feature    |  Description  |    Example   |
 |----------------|---------------|--------------|
-|   Ticker Symbol input from the user             |   Retrieves prices of stocks from a variety of markets             |  companyname2 = input("What is the name of the company you'd like stock prices for? (Please input a NASDAQ stock, and if you get an error, break the program and try it again. ")      |
+|   Ticker Symbol input from the user             |   Retrieves prices of stocks from a variety of markets             |  companyname2 = input("What is the name of the company you'd like stock prices for? Please input a NASDAQ stock, and if you get an error, break the program and try it again. ")      |
 |                |               |              |
 |                |               |              |
 |                |               |              |
