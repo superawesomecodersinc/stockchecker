@@ -24,3 +24,17 @@ StockChecker (Created by Daniel Oroszvari and Benjamin Ranford) is a program dev
 
 #### `matplotlib.pyplot` - A plotting library developed for the Python Programming Language and NumPy, and is used to embed plots into applications.
 
+#### `warnings` - A module used to display alerts. Typically used to present the user with an alert on an outlier affecting the condition of the program.
+
+#### `sys` - A module (that is always available) providing access to variables maintained by and interacting with the interpreter.
+
+#### `requests` - An HTTP Library that allows for the sending of requests without manual labor.
+
+#### `datetime` - This module supplies the program with a variety of dat and time displays (simple and complex). 
+
+|     Feature    |  Description  |    Example   |
+|----------------|---------------|--------------|
+|   Ticker Symbol input from the user             |   Retrieves prices of stocks from a variety of markets             |  companyname2 = input("What is the name of the company you'd like stock prices for? Please input a NASDAQ stock, and if you get an error, break the program and try it again. ")      |
+|                |               |              |
+|                |               |              |
+|                |               |              |
