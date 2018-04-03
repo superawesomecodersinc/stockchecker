@@ -95,6 +95,10 @@ if choice in yes:
 	df = quandl.get("WIKI/" + companynameupper)
 	df = df[['Adj. Close']]
 
+    print("")
+    print("Calculating...")
+    print("")
+
 	# Forecast variables
 	forecast_out = int(numberofdays)  # predicting 30 days into future
 	df['Prediction'] = df[['Adj. Close']].shift(
