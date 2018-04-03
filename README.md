@@ -28,6 +28,8 @@ StockChecker (Created by Daniel Oroszvari and Benjamin Ranford) is a program dev
 
 #### `sys` - A module (that is always available) providing access to variables maintained by and interacting with the interpreter.
 
+#### `requests` - An HTTP Library that allows for the sending of requests without manual labor.
+
 #### `datetime` - This module supplies the program with a variety of dat and time displays (simple and complex). 
 
 |     Feature    |  Description  |    Example   |
