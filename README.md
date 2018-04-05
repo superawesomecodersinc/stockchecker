@@ -35,6 +35,19 @@ StockChecker (Created by Daniel Oroszvari and Benjamin Ranford) is a program dev
 |     Feature    |  Description  |    Example   |
 |----------------|---------------|--------------|
 |   Ticker Symbol input from the user             |   Retrieves prices of stocks from a variety of markets             |  companyname2 = input("What is the name of the company you'd like stock prices for? Please input a NASDAQ stock, and if you get an error, break the program and try it again. ")      |
-|                |               |              |
-|                |               |              |
-|                |               |              |
+|Ticker Symbol input from the user               |Capitalises the code IF it is entered as lowercase               |companynameupper = companyname2.upper()              |
+|Yahoo Finance API                 |Returns the company name from the symbol input               |"http://d.yimg.com/autoc.finance.yahoo.com/autoc?query={}&region=1&lang=en"              |
+|Pretty Print                 |Data produced on the program in an organised fashion               |pprint(data.head(1))              |
+|Graph query     |Queries user on whether or not they would like a graph|print("") print("Do you want a graph? (Y/N)") print("")|
+|Prediction of future stock prices|Produces (predicted) stock prices of the company the user selected               | input("How many days into the future would you like to predict? ")) df = quandl.get("WIKI/" + companynameupper df = df[['Adj. Close']]|
+
+## Smartphone Features
+Along with the produced code, a plan for a smartphone app is in development. A mockup of the app's prototype interface has also been designed. The app will be created for the purpose of accessing the prices of company shares with ease. In the future of the app's development, implementing multiple API's into the code will grant access to a wide variety of features such as finding the price of and producing a forcast for international currency and cryptocurrency.
+
+The app will also consist of an inclusivity feature - a help button for users who don't understand the app's purpose.
+
+## Grok Learning Modules Used
+#### Hello World!
+#### Hello to you three!
+#### Open Sesame!
+#### Changing Text to Uppercase
