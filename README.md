@@ -51,3 +51,14 @@ The app will also consist of an inclusivity feature - a help button for users wh
 #### Hello to you three!
 #### Open Sesame!
 #### Changing Text to Uppercase
+
+## What Helped Us
+* https://pandas.pydata.org/
+* https://pypi.python.org/pypi/alpha_vantage/0.2.1
+* https://docs.python.org/2/library/pprint.html
+* https://docs.python.org/3/library/json.html
+* https://matplotlib.org/api/pyplot_api.html
+* https://docs.python.org/2/library/warnings.html
+* https://docs.python.org/2/library/sys.html
+* http://docs.python-requests.org/en/master/
+* https://docs.python.org/2/library/datetime.html
