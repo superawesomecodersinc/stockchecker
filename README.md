@@ -30,7 +30,7 @@ StockChecker (Created by Daniel Oroszvari and Benjamin Ranford) is a program dev
 
 #### `requests` - An HTTP Library that allows for the sending of requests without manual labor.
 
-#### `datetime` - This module supplies the program with a variety of dat and time displays (simple and complex). 
+#### `datetime` - This module supplies the program with a variety of date and time displays (simple and complex). 
 
 |     Feature    |  Description  |    Example   |
 |----------------|---------------|--------------|
