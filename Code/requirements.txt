@@ -2,7 +2,8 @@ numpy
 pandas
 datetime
 alpha_vantage
-pprint requests
+pprint
+requests
 matplotlib
 quandl
 sklearn
